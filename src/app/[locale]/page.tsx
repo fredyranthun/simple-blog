@@ -2,8 +2,10 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import Link from "next/link";
+import { useTranslations } from "next-intl";
 
 export default function Home() {
+  const t = useTranslations("home");
   const postsDirectory = path.join(process.cwd(), "posts");
   const fileNames = fs.readdirSync(postsDirectory);
   const posts = fileNames
@@ -22,7 +24,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1 className="text-4xl font-bold mb-8 text-white">Latest Posts</h1>
+      <h1 className="text-4xl font-bold mb-8 text-white">{t("title")}</h1>
       <div className="grid gap-6 md:grid-cols-2">
         {posts.map((post) => (
           <Link key={post.slug} href={`/posts/${post.slug}`} className="block">

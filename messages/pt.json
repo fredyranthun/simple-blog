@@ -1,0 +1,24 @@
+{
+  "home": {
+    "title": "Últimas Postagens",
+    "readMore": "Leia Mais"
+  },
+  "about": {
+    "title": "Sobre o Autor",
+    "paragraph_1": "Olá! Eu sou Fredy R., um desenvolvedor web brasileiro apaixonado, focado em backend, novas tecnologias web e várias outras coisas. Criei este blog para compartilhar meus pensamentos sobre tecnologia, programação e a vida em geral.",
+    "paragraph_2": "Com mais de 5 anos de experiência na indústria de tecnologia, trabalhei em vários projetos e adquiri insights que estou animado para compartilhar com você através deste blog.",
+    "paragraph_3": "Quando não estou escrevendo ou codificando, você pode me encontrar explorando a natureza, lendo literatura, tocando algum instrumento (principalmente baixo ou violão acústico) ou experimentando novas receitas na cozinha.",
+    "paragraph_4": "Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou apenas quiser se conectar. Estou sempre feliz em conversar sobre tecnologia, escrita ou qualquer outro tópico interessante!"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "underConstruction": "Em Construção",
+    "message": "Estamos trabalhando para melhorar nosso formulário de contato para atendê-lo melhor.",
+    "alternativeContact": "Por favor, volte em breve ou entre em contato conosco por e-mail em"
+  },
+  "navigation": {
+    "home": "Início",
+    "about": "Sobre",
+    "contact": "Contato"
+  }
+}

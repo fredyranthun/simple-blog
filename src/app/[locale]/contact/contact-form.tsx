@@ -1,7 +1,7 @@
 "use client";
 
 import { useRef, useState } from "react";
-import { submitContactForm } from "../actions";
+import { submitContactForm } from "../../actions";
 
 export default function ContactForm() {
   const [isSubmitted, setIsSubmitted] = useState(false);

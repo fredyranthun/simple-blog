@@ -1,0 +1,24 @@
+{
+  "home": {
+    "title": "Latest Posts",
+    "readMore": "Read More"
+  },
+  "about": {
+    "title": "About the Author",
+    "paragraph_1": "Hello! I'm Fredy R., a brazilian passionate web developer, focused in backend, new web technologies and a bunch of other stuff. I created this blog to share my thoughts on technology, programming, and life in general.",
+    "paragraph_2": "With over 5 years of experience in the tech industry, I've worked on various projects and have gained insights that I'm excited to share with you through this blog.",
+    "paragraph_3": "When I'm not writing or coding, you can find me exploring nature, reading literature, playing some instrument (mainly bass or acoustic guitar), or experimenting with new recipes in the kitchen.",
+    "paragraph_4": "Feel free to reach out if you have any questions or just want to connect. I'm always happy to chat about technology, writing, or any other interesting topics!"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "underConstruction": "Under Construction",
+    "message": "We're currently working on improving our contact form to serve you better.",
+    "alternativeContact": "Please check back soon or reach out to us via email at"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
+}
